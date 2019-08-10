@@ -12,10 +12,10 @@
 ![screenshot of sample](https://github.com/TonyWhiteFox/lem-in/blob/master/screens%20%26%26%20subject/sample6.png)
 
 flags:
-v - визуализация
-m - музыка
-w - показать пути до ответа
-p - полезен, если очень сложная карта выводит точки пока программа считает
-c - считает количество выведенных строк
+v - визуализация;
+m - музыка;
+w - показать пути до ответа;
+p - полезен, если очень сложная карта выводит точки пока программа считает;
+c - считает количество выведенных строк;
 
 Subject: https://github.com/TonyWhiteFox/lem-in/blob/master/screens%20%26%26%20subject/lem-in.en.pdf
